@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Freight_Forwarder_Assistant_FFA/1.0.0": {
+        "runtime": {
+          "Freight_Forwarder_Assistant_FFA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Freight_Forwarder_Assistant_FFA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
