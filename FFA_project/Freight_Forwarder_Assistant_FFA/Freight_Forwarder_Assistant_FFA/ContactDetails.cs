@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Freight_Forwarder_Assistant_FFA
 {
-    class ContactDetails
+    public class ContactDetails
     {
         public int Id { get; set; }
         public string CompanyName { get; set; }

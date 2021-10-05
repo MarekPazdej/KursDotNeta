@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\szkolaDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj": {}
+    "D:\\Source\\Repos\\KursDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj": {}
   },
   "projects": {
-    "D:\\szkolaDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj": {
+    "D:\\Source\\Repos\\KursDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\szkolaDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj",
+        "projectUniqueName": "D:\\Source\\Repos\\KursDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj",
         "projectName": "Freight_Forwarder_Assistant_FFA",
-        "projectPath": "D:\\szkolaDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj",
+        "projectPath": "D:\\Source\\Repos\\KursDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA.csproj",
         "packagesPath": "C:\\Users\\marek\\.nuget\\packages\\",
-        "outputPath": "D:\\szkolaDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\obj\\",
+        "outputPath": "D:\\Source\\Repos\\KursDotNeta\\FFA_project\\Freight_Forwarder_Assistant_FFA\\Freight_Forwarder_Assistant_FFA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
